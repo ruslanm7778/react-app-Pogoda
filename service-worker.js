@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-app-Pogoda/precache-manifest.f13e7732956606de091d222e3af8bd23.js"
+  "/react-app-Pogoda/precache-manifest.6eae8a5efca23c027daf614dac62642c.js"
 );
 
 self.addEventListener('message', (event) => {
